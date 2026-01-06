@@ -159,6 +159,13 @@ pio run --target upload
 pio device monitor
 ```
 
+## How it works
+[![How it works](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHljYW8yYjRtcXE3Nng4dGdmcWFkajlmMXV4ejNybjNpdmt0cGhhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iyl55kTeh71nTXy/giphy.gif)](https://youtube.com/shorts/JO9nu37Rznc?feature=share)
+
 ## License
 
 This project is for educational purposes. Song data is sourced from [robsoncouto/arduino-songs](https://github.com/robsoncouto/arduino-songs).
+
+And the registers information is based on the ATmega328P datasheet. [Link](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)
+
+
